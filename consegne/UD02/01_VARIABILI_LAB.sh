@@ -1,0 +1,7 @@
+export LAB_LOCATION="italynorth"
+export LAB_SUFFIX="e9b60a92"
+export LAB_RG="rg-cea-ud02-e9b60a92"
+export LAB_VNET="vnet-cea-ud02"
+export LAB_SUBNET="snet-app"
+export LAB_STORAGE="stceae9b60a92"
+export LAB_DELETE_AFTER="$(date -d '+2 days' +%F)"

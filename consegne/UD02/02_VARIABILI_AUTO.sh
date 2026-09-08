@@ -1,0 +1,7 @@
+export AUTO_SUFFIX="$(date +%s%N | sha256sum | cut -c1-8)"
+export AUTO_RG="rg-cea-ud02-auto-${AUTO_SUFFIX}"
+export AUTO_VNET="vnet-cea-auto"
+export AUTO_SUBNET="snet-workload"
+export AUTO_STORAGE="stceaauto${AUTO_SUFFIX}"
+export AUTO_DELETE_AFTER="$(date -d '+2 days' +%F)"
+export AUTO_LOCATION="italynorth"
