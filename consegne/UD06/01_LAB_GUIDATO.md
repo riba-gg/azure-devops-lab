@@ -67,9 +67,9 @@
 
 ## HA / Backup / DR
 
-* Scenario A: High Availability
-* Scenario B: Backup
-* Scenario C: Disaster Recovery
+* A: High Availability
+* B: Backup
+* C: Disaster Recovery
 
 ## Cleanup
 
