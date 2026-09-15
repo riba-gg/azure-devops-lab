@@ -38,10 +38,10 @@
 
 ## 7. App Service scaling
 
-- A: Scale up — aumentare la potenza della singola istanza scegliendo un piano/SKU più potente
-- B: Scale out automatico — aumentare o diminuire il numero di istanze in base a una metrica, ad esempio la CPU
-- C: Automatic Scaling — il numero di istanze viene adattato automaticamente in base al carico/traffico
-- D: Scale out manuale — aumentare manualmente il numero di istanze, ad esempio da 1 a 2
+- A: Scale up — Serve una singola istanza più potente.
+- B: Scale out manuale — Per una demo voglio semplicemente passare da 1 a 2 istanze manualmente.
+- C: Azure Monitor Autoscale — La piattaforma deve reagire automaticamente al traffico HTTP senza definire regole metriche esplicite, su un tier compatibile.
+- D: Automatic Scaling — Il numero di istanze deve aumentare quando CPU supera una soglia definita.
 
 ## 8. Backup policy
 
