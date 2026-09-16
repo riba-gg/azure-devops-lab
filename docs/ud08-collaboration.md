@@ -9,3 +9,6 @@ Collaborazione GitHub tra due account per verificare clone, branch, pull request
 
 ## Esito
 Review completata e modifica corretta.
+
+## Collaborazione inversa
+ste-riiba ha contribuito al repository di riba-gg tramite una pull request.
