@@ -5,3 +5,7 @@
 
 ## Attività
 Collaborazione GitHub tra due account per verificare clone, branch, pull request, review e merge.
+
+
+## Esito
+Review completata e modifica corretta.
