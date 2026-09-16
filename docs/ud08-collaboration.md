@@ -12,3 +12,6 @@ Review completata e modifica corretta.
 
 ## Collaborazione inversa
 ste-riiba ha contribuito al repository di riba-gg tramite una pull request.
+
+## Verifica
+Collaborazione inversa verificata.
